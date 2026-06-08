@@ -1,0 +1,96 @@
+{
+  "generated_at": "2026-06-08 21:22:58",
+  "regression_results": {
+    "Linear Regression": {
+      "MAE": 1696.04,
+      "RMSE": 2008.67,
+      "R2": 0.4631,
+      "MAPE": 61.07
+    },
+    "Random Forest": {
+      "MAE": 181.09,
+      "RMSE": 473.67,
+      "R2": 0.9701,
+      "MAPE": 3.83
+    },
+    "XGBoost": {
+      "MAE": 61.31,
+      "RMSE": 93.32,
+      "R2": 0.9988,
+      "MAPE": 1.47
+    }
+  },
+  "classification_results": {
+    "Logistic Regression": {
+      "Accuracy": 0.9079,
+      "Precision": 0.9086,
+      "Recall": 0.9079,
+      "F1_Score": 0.9074,
+      "Confusion_Matrix": [
+        [
+          3189,
+          71,
+          102
+        ],
+        [
+          254,
+          2806,
+          261
+        ],
+        [
+          75,
+          158,
+          3084
+        ]
+      ]
+    },
+    "Random Forest": {
+      "Accuracy": 0.8806,
+      "Precision": 0.8904,
+      "Recall": 0.8806,
+      "F1_Score": 0.8804,
+      "Confusion_Matrix": [
+        [
+          3017,
+          257,
+          88
+        ],
+        [
+          33,
+          2549,
+          739
+        ],
+        [
+          0,
+          77,
+          3240
+        ]
+      ]
+    },
+    "XGBoost": {
+      "Accuracy": 0.9944,
+      "Precision": 0.9944,
+      "Recall": 0.9944,
+      "F1_Score": 0.9944,
+      "Confusion_Matrix": [
+        [
+          3349,
+          13,
+          0
+        ],
+        [
+          10,
+          3290,
+          21
+        ],
+        [
+          0,
+          12,
+          3305
+        ]
+      ]
+    }
+  },
+  "best_regression": "XGBoost",
+  "best_classification": "XGBoost"
+}

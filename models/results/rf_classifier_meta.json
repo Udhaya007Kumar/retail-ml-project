@@ -1,0 +1,28 @@
+{
+  "model_name": "rf_classifier",
+  "model_type": "classification",
+  "trained_at": "2026-06-08 21:22:57",
+  "metrics": {
+    "Accuracy": 0.8806,
+    "Precision": 0.8904,
+    "Recall": 0.8806,
+    "F1_Score": 0.8804,
+    "Confusion_Matrix": [
+      [
+        3017,
+        257,
+        88
+      ],
+      [
+        33,
+        2549,
+        739
+      ],
+      [
+        0,
+        77,
+        3240
+      ]
+    ]
+  }
+}

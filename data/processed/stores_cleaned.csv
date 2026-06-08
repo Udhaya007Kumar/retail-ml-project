@@ -1,0 +1,101 @@
+Store_ID,Store_Name,City,State,Region,Manager_Name,Store_Type,Opening_Date,Store_Age_Years
+S001,Store_1,Pune,Telangana,South,Manager_1,Supermarket,2015-01-01,9
+S002,Store_2,Bangalore,Karnataka,West,Manager_2,Mall,2015-01-31,9
+S003,Store_3,Kochi,Tamil Nadu,West,Manager_3,Supermarket,2015-03-02,9
+S004,Store_4,Hyderabad,Maharashtra,South,Manager_4,Mall,2015-04-01,9
+S005,Store_5,Pune,Kerala,South,Manager_5,Standalone,2015-05-01,9
+S006,Store_6,Mysore,Telangana,West,Manager_6,Mall,2015-05-31,9
+S007,Store_7,Madurai,Kerala,South,Manager_7,Supermarket,2015-06-30,9
+S008,Store_8,Pune,Kerala,West,Manager_8,Supermarket,2015-07-30,9
+S009,Store_9,Kochi,Tamil Nadu,West,Manager_9,Supermarket,2015-08-29,9
+S010,Store_10,Hyderabad,Kerala,South,Manager_10,Supermarket,2015-09-28,9
+S011,Store_11,Bangalore,Maharashtra,South,Manager_11,Supermarket,2015-10-28,9
+S012,Store_12,Kochi,Kerala,West,Manager_12,Hypermarket,2015-11-27,9
+S013,Store_13,Kochi,Tamil Nadu,West,Manager_13,Hypermarket,2015-12-27,9
+S014,Store_14,Madurai,Maharashtra,South,Manager_14,Mall,2016-01-26,8
+S015,Store_15,Mumbai,Karnataka,West,Manager_15,Supermarket,2016-02-25,8
+S016,Store_16,Hyderabad,Kerala,South,Manager_16,Mall,2016-03-26,8
+S017,Store_17,Coimbatore,Tamil Nadu,West,Manager_17,Supermarket,2016-04-25,8
+S018,Store_18,Kochi,Karnataka,South,Manager_18,Supermarket,2016-05-25,8
+S019,Store_19,Mumbai,Karnataka,South,Manager_19,Hypermarket,2016-06-24,8
+S020,Store_20,Coimbatore,Telangana,South,Manager_20,Hypermarket,2016-07-24,8
+S021,Store_21,Hyderabad,Maharashtra,West,Manager_21,Standalone,2016-08-23,8
+S022,Store_22,Chennai,Kerala,West,Manager_22,Hypermarket,2016-09-22,8
+S023,Store_23,Mysore,Tamil Nadu,South,Manager_23,Standalone,2016-10-22,8
+S024,Store_24,Mumbai,Telangana,West,Manager_24,Standalone,2016-11-21,8
+S025,Store_25,Trivandrum,Maharashtra,South,Manager_25,Standalone,2016-12-21,8
+S026,Store_26,Chennai,Telangana,South,Manager_26,Standalone,2017-01-20,7
+S027,Store_27,Mysore,Maharashtra,West,Manager_27,Standalone,2017-02-19,7
+S028,Store_28,Madurai,Maharashtra,West,Manager_28,Mall,2017-03-21,7
+S029,Store_29,Pune,Kerala,South,Manager_29,Hypermarket,2017-04-20,7
+S030,Store_30,Bangalore,Maharashtra,West,Manager_30,Standalone,2017-05-20,7
+S031,Store_31,Trivandrum,Telangana,West,Manager_31,Supermarket,2017-06-19,7
+S032,Store_32,Madurai,Maharashtra,South,Manager_32,Hypermarket,2017-07-19,7
+S033,Store_33,Hyderabad,Kerala,South,Manager_33,Hypermarket,2017-08-18,7
+S034,Store_34,Madurai,Kerala,West,Manager_34,Standalone,2017-09-17,7
+S035,Store_35,Pune,Telangana,South,Manager_35,Mall,2017-10-17,7
+S036,Store_36,Hyderabad,Karnataka,South,Manager_36,Standalone,2017-11-16,7
+S037,Store_37,Trivandrum,Karnataka,West,Manager_37,Mall,2017-12-16,7
+S038,Store_38,Pune,Maharashtra,South,Manager_38,Supermarket,2018-01-15,6
+S039,Store_39,Coimbatore,Tamil Nadu,South,Manager_39,Hypermarket,2018-02-14,6
+S040,Store_40,Bangalore,Maharashtra,West,Manager_40,Supermarket,2018-03-16,6
+S041,Store_41,Trivandrum,Telangana,West,Manager_41,Mall,2018-04-15,6
+S042,Store_42,Coimbatore,Telangana,South,Manager_42,Mall,2018-05-15,6
+S043,Store_43,Mysore,Telangana,South,Manager_43,Supermarket,2018-06-14,6
+S044,Store_44,Trivandrum,Telangana,West,Manager_44,Mall,2018-07-14,6
+S045,Store_45,Mysore,Telangana,West,Manager_45,Supermarket,2018-08-13,6
+S046,Store_46,Hyderabad,Kerala,West,Manager_46,Hypermarket,2018-09-12,6
+S047,Store_47,Coimbatore,Karnataka,West,Manager_47,Supermarket,2018-10-12,6
+S048,Store_48,Bangalore,Telangana,South,Manager_48,Hypermarket,2018-11-11,6
+S049,Store_49,Pune,Tamil Nadu,West,Manager_49,Supermarket,2018-12-11,6
+S050,Store_50,Kochi,Tamil Nadu,West,Manager_50,Mall,2019-01-10,5
+S051,Store_51,Madurai,Tamil Nadu,South,Manager_51,Supermarket,2019-02-09,5
+S052,Store_52,Chennai,Tamil Nadu,West,Manager_52,Mall,2019-03-11,5
+S053,Store_53,Bangalore,Kerala,South,Manager_53,Supermarket,2019-04-10,5
+S054,Store_54,Coimbatore,Tamil Nadu,West,Manager_54,Supermarket,2019-05-10,5
+S055,Store_55,Kochi,Telangana,West,Manager_55,Standalone,2019-06-09,5
+S056,Store_56,Bangalore,Maharashtra,West,Manager_56,Mall,2019-07-09,5
+S057,Store_57,Coimbatore,Tamil Nadu,South,Manager_57,Standalone,2019-08-08,5
+S058,Store_58,Mumbai,Kerala,South,Manager_58,Mall,2019-09-07,5
+S059,Store_59,Mumbai,Kerala,West,Manager_59,Standalone,2019-10-07,5
+S060,Store_60,Mysore,Tamil Nadu,South,Manager_60,Hypermarket,2019-11-06,5
+S061,Store_61,Bangalore,Maharashtra,South,Manager_61,Supermarket,2019-12-06,5
+S062,Store_62,Mumbai,Tamil Nadu,South,Manager_62,Mall,2020-01-05,4
+S063,Store_63,Coimbatore,Kerala,South,Manager_63,Mall,2020-02-04,4
+S064,Store_64,Mysore,Karnataka,South,Manager_64,Supermarket,2020-03-05,4
+S065,Store_65,Coimbatore,Telangana,South,Manager_65,Mall,2020-04-04,4
+S066,Store_66,Mysore,Kerala,West,Manager_66,Mall,2020-05-04,4
+S067,Store_67,Bangalore,Tamil Nadu,West,Manager_67,Standalone,2020-06-03,4
+S068,Store_68,Kochi,Telangana,South,Manager_68,Mall,2020-07-03,4
+S069,Store_69,Pune,Tamil Nadu,West,Manager_69,Hypermarket,2020-08-02,4
+S070,Store_70,Trivandrum,Tamil Nadu,West,Manager_70,Hypermarket,2020-09-01,4
+S071,Store_71,Kochi,Karnataka,West,Manager_71,Supermarket,2020-10-01,4
+S072,Store_72,Hyderabad,Telangana,West,Manager_72,Mall,2020-10-31,4
+S073,Store_73,Coimbatore,Telangana,South,Manager_73,Supermarket,2020-11-30,4
+S074,Store_74,Hyderabad,Karnataka,West,Manager_74,Hypermarket,2020-12-30,4
+S075,Store_75,Kochi,Kerala,West,Manager_75,Mall,2021-01-29,3
+S076,Store_76,Mysore,Tamil Nadu,South,Manager_76,Mall,2021-02-28,3
+S077,Store_77,Trivandrum,Maharashtra,South,Manager_77,Supermarket,2021-03-30,3
+S078,Store_78,Trivandrum,Tamil Nadu,West,Manager_78,Hypermarket,2021-04-29,3
+S079,Store_79,Chennai,Tamil Nadu,West,Manager_79,Mall,2021-05-29,3
+S080,Store_80,Trivandrum,Kerala,West,Manager_80,Supermarket,2021-06-28,3
+S081,Store_81,Pune,Tamil Nadu,West,Manager_81,Hypermarket,2021-07-28,3
+S082,Store_82,Trivandrum,Karnataka,West,Manager_82,Supermarket,2021-08-27,3
+S083,Store_83,Kochi,Karnataka,West,Manager_83,Standalone,2021-09-26,3
+S084,Store_84,Chennai,Telangana,South,Manager_84,Mall,2021-10-26,3
+S085,Store_85,Kochi,Maharashtra,West,Manager_85,Standalone,2021-11-25,3
+S086,Store_86,Kochi,Tamil Nadu,West,Manager_86,Hypermarket,2021-12-25,3
+S087,Store_87,Madurai,Tamil Nadu,South,Manager_87,Standalone,2022-01-24,2
+S088,Store_88,Chennai,Kerala,South,Manager_88,Standalone,2022-02-23,2
+S089,Store_89,Kochi,Karnataka,South,Manager_89,Hypermarket,2022-03-25,2
+S090,Store_90,Madurai,Maharashtra,South,Manager_90,Supermarket,2022-04-24,2
+S091,Store_91,Madurai,Telangana,West,Manager_91,Standalone,2022-05-24,2
+S092,Store_92,Chennai,Karnataka,West,Manager_92,Supermarket,2022-06-23,2
+S093,Store_93,Hyderabad,Telangana,West,Manager_93,Standalone,2022-07-23,2
+S094,Store_94,Mysore,Kerala,West,Manager_94,Supermarket,2022-08-22,2
+S095,Store_95,Pune,Kerala,West,Manager_95,Hypermarket,2022-09-21,2
+S096,Store_96,Mysore,Tamil Nadu,West,Manager_96,Standalone,2022-10-21,2
+S097,Store_97,Trivandrum,Maharashtra,South,Manager_97,Hypermarket,2022-11-20,2
+S098,Store_98,Pune,Telangana,West,Manager_98,Standalone,2022-12-20,2
+S099,Store_99,Trivandrum,Karnataka,South,Manager_99,Hypermarket,2023-01-19,1
+S100,Store_100,Kochi,Kerala,South,Manager_100,Hypermarket,2023-02-18,1

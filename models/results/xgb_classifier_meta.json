@@ -1,0 +1,28 @@
+{
+  "model_name": "xgb_classifier",
+  "model_type": "classification",
+  "trained_at": "2026-06-08 21:22:58",
+  "metrics": {
+    "Accuracy": 0.9944,
+    "Precision": 0.9944,
+    "Recall": 0.9944,
+    "F1_Score": 0.9944,
+    "Confusion_Matrix": [
+      [
+        3349,
+        13,
+        0
+      ],
+      [
+        10,
+        3290,
+        21
+      ],
+      [
+        0,
+        12,
+        3305
+      ]
+    ]
+  }
+}

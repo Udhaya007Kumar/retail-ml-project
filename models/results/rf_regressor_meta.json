@@ -1,0 +1,11 @@
+{
+  "model_name": "rf_regressor",
+  "model_type": "regression",
+  "trained_at": "2026-06-08 21:22:56",
+  "metrics": {
+    "MAE": 181.09,
+    "RMSE": 473.67,
+    "R2": 0.9701,
+    "MAPE": 3.83
+  }
+}

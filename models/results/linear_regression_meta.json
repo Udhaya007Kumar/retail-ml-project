@@ -1,0 +1,11 @@
+{
+  "model_name": "linear_regression",
+  "model_type": "regression",
+  "trained_at": "2026-06-08 21:22:55",
+  "metrics": {
+    "MAE": 1696.04,
+    "RMSE": 2008.67,
+    "R2": 0.4631,
+    "MAPE": 61.07
+  }
+}

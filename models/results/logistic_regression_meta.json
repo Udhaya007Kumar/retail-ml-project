@@ -1,0 +1,28 @@
+{
+  "model_name": "logistic_regression",
+  "model_type": "classification",
+  "trained_at": "2026-06-08 21:22:57",
+  "metrics": {
+    "Accuracy": 0.9079,
+    "Precision": 0.9086,
+    "Recall": 0.9079,
+    "F1_Score": 0.9074,
+    "Confusion_Matrix": [
+      [
+        3189,
+        71,
+        102
+      ],
+      [
+        254,
+        2806,
+        261
+      ],
+      [
+        75,
+        158,
+        3084
+      ]
+    ]
+  }
+}

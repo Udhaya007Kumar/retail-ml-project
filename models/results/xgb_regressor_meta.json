@@ -1,0 +1,11 @@
+{
+  "model_name": "xgb_regressor",
+  "model_type": "regression",
+  "trained_at": "2026-06-08 21:22:56",
+  "metrics": {
+    "MAE": 61.31,
+    "RMSE": 93.32,
+    "R2": 0.9988,
+    "MAPE": 1.47
+  }
+}
